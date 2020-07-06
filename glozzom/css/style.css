@@ -10,28 +10,30 @@ body {
 }
 
 .carousel-item {
-  height: 450px;
+  height: 650px;
 }
 
 .carousel-image-1 {
-  background: url('../img/image1.jpg');
+  background: url('../img/group-of-people-standing-indoors-3184396\ \(2\).jpg');
   background-size: cover;
 }
 
 .carousel-image-2 {
-  background: url('../img/image2.jpg');
+  background: url('../img/person-holding-four-oranges-in-white-net-bag-3737618.jpg');
   background-size: cover;
+  
 }
 
 .carousel-image-3 {
-  background: url('../img/image3.jpg');
+  background: url('../img/team-4529717_1920.jpg');
   background-size: cover;
 }
 
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url('../img/lights.jpg');
+  background: url('../img/light-trails-on-highway-at-night-315938\ \(1\).jpg');
+  background-position: bottom;
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -50,7 +52,7 @@ body {
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url('../img/media.jpg');
+  background: url('../img/acoustic-amplifier-artist-audio-114820.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -300px;
